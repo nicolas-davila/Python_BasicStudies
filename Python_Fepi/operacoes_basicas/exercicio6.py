@@ -12,4 +12,4 @@ radius = float(input("Digite o valor do raio da esfera em cm: "))
 
 volume = (4/3) * math.pi * (radius ** 3)
 
-print(f"O volume da esfera é de: {volume:.2f}cm")
+print(f"O volume da esfera é de: {volume:.2f}cm³")
